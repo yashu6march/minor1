@@ -7,7 +7,7 @@ padding: 0;
 #rectangle11{
 
   background-color: #ffcd9e;
-  width: 100pw;
+  width: 1440px;
   height: 592px;
   flex-shrink: 0;
   position: relative;
@@ -15,7 +15,7 @@ padding: 0;
 
 #rectangle17{
 background-color: #100F0D;
-width: 100pw;
+width: 1440px;
 height: 298px;
 flex-shrink: 0;
 position: relative;
